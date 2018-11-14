@@ -2,7 +2,7 @@
 simdd-editor
 ============
 
-Tango simulator data-description (json) editor 
+Simulator data-description (json) editor 
 
 ===========
 Basic Usage
